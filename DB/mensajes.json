@@ -1,0 +1,28 @@
+[
+  {
+    "author": {
+      "email": "medina.carlosº@hotmail.com",
+      "nombre": "Carlos",
+      "apellido": "Medina",
+      "edad": "25",
+      "alias": "carlitos",
+      "avatar": "http://imagen/carlos-medina.jpg"
+    },
+    "text": "Hola",
+    "fyh": "3/7/2022, 17:14:47",
+    "id": 13
+  },
+  {
+    "author": {
+      "email": "maria@yahoo.com",
+      "nombre": "María",
+      "apellido": "Alvarez",
+      "edad": "34",
+      "alias": "mari",
+      "avatar": "https://images/avatar/maria-photo.jpg"
+    },
+    "text": "Hola",
+    "fyh": "4/7/2022, 10:36:03",
+    "id": 14
+  }
+]
